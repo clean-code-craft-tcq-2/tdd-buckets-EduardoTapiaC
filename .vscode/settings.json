@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "current_measurements.h": "c",
+        "array": "c",
+        "bitset": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "regex": "c",
+        "utility": "c",
+        "sstream": "c"
+    }
+}
